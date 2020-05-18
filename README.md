@@ -1,2 +1,2 @@
-# oop-pricecalculator
-OOP Pricecalculator challenge
+# Artist B&B
+Mongo Db & python
