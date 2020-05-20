@@ -1,0 +1,1 @@
+export const mongoURI = 'mongodb+srv://CathDM:Kumera080282@freeclusterone-b9ijm.gcp.mongodb.net/test?retryWrites=true&w=majority'; 
