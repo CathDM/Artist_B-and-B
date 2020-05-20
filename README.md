@@ -1,2 +1,2 @@
 # Artist B&B
-Mongo Db & python
+Mongo Db Mern
